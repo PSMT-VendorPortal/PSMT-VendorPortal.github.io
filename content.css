@@ -213,13 +213,17 @@ background-image:url(toplogo.png);
 background-repeat:no-repeat;
 /*headerBGPosition*/
 background-position:0 0;border:1px solid /*headerBorderColor*/
-#e1e4e5;
+#ffffff;
 }
 #headerContent{
 /*headerTitleTopMargin*/
-padding-top:65px;
+padding-top:80px;
+/*headerTitleFontFamily*/
+font-family:Arial, Verdana, Helvetica, sans-serif;
 /*headerTitleColor*/
 color:#ffffff;
+/*headerTitleTextShadowColor*/
+text-shadow:1px 1px 1px #666666;
 }
 #siteFooter{
 border:1px solid /*footerBorderColor*/
